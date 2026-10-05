@@ -1,0 +1,8 @@
+# Reflection: antsx_antsr
+
+ANTsR shows an irregular activity pattern with three inactivity gaps "
+        "of at least three months. Its longest gap lasted four months from "
+        "July through October 2022, and the commits immediately before the gap "
+        "were normal enhancement, bug-fix, documentation, and compilation work. "
+        "There is no obvious explanation for the pause in the commit messages, "
+        "but the project clearly recovered because 581 commits occurred afterward.

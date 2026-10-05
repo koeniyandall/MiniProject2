@@ -1,0 +1,446 @@
+pre/post;prj;commit;author;time;message
+pre;antsx_antsr;da9f15aac8a853565c68c00ad613df22ef78adf8;Nick Tustison <ntustison@gmail.com>;1652370714;"ENH:  Add diffeo.
+"
+pre;antsx_antsr;62d8014e679febdef8b02c3eed68a5d7f0f70053;Nick Tustison <ntustison@gmail.com>;1652373487;"ENH:  Minor changes.
+"
+pre;antsx_antsr;6d6254f0e7b7fe63159f6637f9481517e1c76452;Nick Tustison <ntustison@gmail.com>;1652451180;"DOC/BUG:  Compositions not iterations.
+"
+pre;antsx_antsr;5e96f5b12331f2bdb50d4b18998df05c2a20a118;Nick Tustison <ntustison@gmail.com>;1652451561;"BUG:  One more.
+"
+pre;antsx_antsr;56f08a6df121ef7992d0a5879b3a0e914111aace;Nick Tustison <ntustison@gmail.com>;1652467755;"BUG:  wrong variable name.
+"
+pre;antsx_antsr;6a1a3eb55069d7412b48c8f5d65cbf6b8f8f3540;Nick Tustison <ntustison@gmail.com>;1652547117;"DOC:  More accurate variable name.
+"
+pre;antsx_antsr;761825e047273382518f705f4043d09af6c0a492;stnava <stnava@gmail.com>;1654702261;"COMP: CXX14 standard
+"
+pre;antsx_antsr;33b524305ddb38e215dfcf32edb7a44e27916b07;stnava <stnava@gmail.com>;1654702266;"Merge branch 'master' of https://github.com/ANTsX/ANTsR
+"
+pre;antsx_antsr;67098d08161322598f9f907ec4a2b35fce63df9c;stnava <stnava@gmail.com>;1654705621;"COMP: CXX14
+"
+pre;antsx_antsr;3bdd02053892ecdb1cf317da14ecb3be5682a43c;stnava <stnava@gmail.com>;1654707553;"COMP: update ANTsR for latest compilation issues
+"
+post;antsx_antsr;2b8c55ede8cefcc247fa68eaffbaec3d4a4f213e;Nick Tustison <ntustison@gmail.com>;1668698709;"ENH:  Invert field functionality.
+"
+post;antsx_antsr;6e6416e77bcc6a371d09ae94ff0c8bcd82490c07;Nick Tustison <ntustison@gmail.com>;1668701261;"BUG:  Incomplete last merge commit.
+"
+post;antsx_antsr;4fc28e23f06d78fba24112a18c12b3fbb9cd476b;Nick Tustison <ntustison@gmail.com>;1668703573;"Merge pull request #370 from ANTsX/InvertField
+
+ENH:  Invert field functionality."
+post;antsx_antsr;c5dc2c9f4f89852999a2af79c572a41f2eae48c4;Nick Tustison <ntustison@gmail.com>;1668708886;"ENH:  Compose fields.
+"
+post;antsx_antsr;c2f2adaa00f4699d91cbd71cb49bb9d13737d31e;Nick Tustison <ntustison@gmail.com>;1668719075;"Merge pull request #371 from ANTsX/CompFields
+
+ENH:  Compose fields."
+post;antsx_antsr;ee0d8c7d772cc2172a65013e227a8a690edd4f47;Nick Tustison <ntustison@gmail.com>;1668728416;"ENH: Coordinate default params.
+"
+post;antsx_antsr;a3eead9a4be5a379e07e255e319d1ff569928fdb;Nick Tustison <ntustison@gmail.com>;1668728659;"BUG: wrong code block.
+"
+post;antsx_antsr;db0e91e5d948808d083c631334a4c81fac762654;Nick Tustison <ntustison@gmail.com>;1668730028;"BUG:  Correct data.
+"
+post;antsx_antsr;f9ff07b1fdee6b5083e8a3dd63295cfa7f2cc191;Nick Tustison <ntustison@gmail.com>;1668788867;"ENH:  SyN landmark transform option.
+"
+post;antsx_antsr;ec0a15260268618f4cc94170f9102914bde5c1e1;Nick Tustison <ntustison@gmail.com>;1668810078;"ENH:  integrate velocity field.
+"
+pre;biomedia_mirtk;ff33ab3899d7c2cdda2aec49399b3cab76fb3bb5;Andreas Schuh <andreas.schuh.84@gmail.com>;1614543372;"fix: Build of Viewer with FLTK <1.3.4
+"
+pre;biomedia_mirtk;877917b1b3ec9e602f7395dbbb1270e4334fc311;Andreas Schuh <andreas.schuh.84@gmail.com>;1628986916;ci: Update .travis.yml deployment to GitHub Releases instead of Bintray
+pre;biomedia_mirtk;462f32b0b050f5837870c9a3a14957f96dbd1295;Andreas Schuh <andreas.schuh.84@gmail.com>;1631894757;"Merge f78df6600b3c3d391bda05be5ab83dc7f147c945 into 877917b1b3ec9e602f7395dbbb1270e4334fc311
+"
+pre;biomedia_mirtk;c8eca51ec6f20438e95ca7ea68bc9e0474b33e2e;Andreas Schuh <andreas.schuh.84@gmail.com>;1634655319;"Merge 0e11ae429c8899d5b52045ef464e5a598b08ae09 into 877917b1b3ec9e602f7395dbbb1270e4334fc311
+"
+pre;biomedia_mirtk;e90f57de09633eda702bc874da19cc889b7625f2;Andreas Schuh <aschuh@heartflow.com>;1658966605;"fix: Build with VTK 9.1
+"
+pre;biomedia_mirtk;973ce2fe3f9508dec68892dbf97cca39067aa3d6;Andreas Schuh <aschuh@heartflow.com>;1658966605;"fix: Build with VTK 9.1
+"
+pre;biomedia_mirtk;be86b02d47a7ce74b17224891e25899c30f37d74;Andreas Schuh <aschuh@heartflow.com>;1658999611;"fix: Find and use newer TBB release version
+"
+pre;biomedia_mirtk;ae00c8e358bc67ad25178361ee2ae1fe13330ccc;Andreas Schuh <aschuh@heartflow.com>;1658999611;"fix: Find and use newer TBB release version
+"
+pre;biomedia_mirtk;2e8e6da407a372207b30bb90e02493122c857e21;Andreas Schuh <aschuh@heartflow.com>;1658999718;"vscode: Use path relative to workspace in config file
+"
+pre;biomedia_mirtk;9b2123f63a4a7bf9ece712a94187cb760c84e5da;Andreas Schuh <andreas.schuh.84@gmail.com>;1659704838;"Merge f78df6600b3c3d391bda05be5ab83dc7f147c945 into 973ce2fe3f9508dec68892dbf97cca39067aa3d6
+"
+post;biomedia_mirtk;ef71a176c120447b3f95291901af7af8b4f00544;Andreas Schuh <andreas.schuh.84@gmail.com>;1740644224;fix: Remove broken links from README
+post;biomedia_mirtk;e742771a0f9160b9357b8c98cbf08124c70077f9;Andreas Schuh <andreas.schuh.84@gmail.com>;1740644224;fix: Remove broken links from README
+post;biomedia_mirtk;3acf32fc2019b5ca86d2718dbb638db7f733e9c3;Andreas Schuh <andreas.schuh.84@gmail.com>;1741953588;"Merge f78df6600b3c3d391bda05be5ab83dc7f147c945 into ef71a176c120447b3f95291901af7af8b4f00544
+"
+post;biomedia_mirtk;3f9625602d463e25e9ecf659602c437d11d40196;Andreas Schuh <andreas.schuh.84@gmail.com>;1741992251;"Merge 0e11ae429c8899d5b52045ef464e5a598b08ae09 into ef71a176c120447b3f95291901af7af8b4f00544
+"
+pre;conda-forge_pyinterp-feedstock;10e7bbbd782b43f55a4506f3675e3d1f1142a53d;Frédéric BRIOL <fbriol@gmail.com>;1684477388;"Rebuilding the package.
+"
+pre;conda-forge_pyinterp-feedstock;33350073a8fa015e2dbc04dd6153d82ebba0bfc9;Frédéric BRIOL <fbriol@gmail.com>;1684477529;"MNT: Re-rendered with conda-build 3.24.0, conda-smithy 3.23.1, and conda-forge-pinning 2023.05.19.05.59.01
+"
+pre;conda-forge_pyinterp-feedstock;69080a3b82ef8d8b1eb5765cd25e835f82a589fe;Frédéric BRIOL <fbriol@gmail.com>;1684479478;"CMake generator under Windows has changed.
+"
+pre;conda-forge_pyinterp-feedstock;e22078574085a2884dd661e402b1d3bb4be01a80;Frédéric BRIOL <fbriol@gmail.com>;1684480501;"Removal of quotation marks.
+"
+pre;conda-forge_pyinterp-feedstock;a9f9a0c9f34046c39a530f2a9fa202f1007db201;Frédéric BRIOL <fbriol@gmail.com>;1684483229;"Rebuilding the package. (#90)
+
+* Rebuilding the package.
+
+* MNT: Re-rendered with conda-build 3.24.0, conda-smithy 3.23.1, and conda-forge-pinning 2023.05.19.05.59.01
+
+* CMake generator under Windows has changed.
+
+* Removal of quotation marks."
+pre;conda-forge_pyinterp-feedstock;3cfab21c6d0de48fc92f03da8c03fac32975a502;Frédéric BRIOL <fbriol@gmail.com>;1684835198;"Fixed the use of BLAS.
+"
+pre;conda-forge_pyinterp-feedstock;c9f37fea0300b7ff0539e052c758e011baf1a312;Frédéric BRIOL <fbriol@gmail.com>;1684836375;"Use the latest released version to test the new recipe.
+"
+pre;conda-forge_pyinterp-feedstock;c59c891fbb59056c652e6db7e68045fdfaf402b6;Frédéric BRIOL <fbriol@gmail.com>;1684910690;"pyinterp v2023.5.0
+"
+pre;conda-forge_pyinterp-feedstock;bf801a739389f31a4413cba28393fa5e1fc3bc40;Frédéric BRIOL <fbriol@gmail.com>;1684912351;"Package names are misformed under OSX.
+"
+pre;conda-forge_pyinterp-feedstock;a8cc30d9f74c85b850318c001f779d9f7426e836;Frédéric BRIOL <fbriol@gmail.com>;1684921376;"pyinterp v2023.5.0 (#92)
+
+* pyinterp v2023.5.0
+
+* Package names are misformed under OSX."
+post;conda-forge_pyinterp-feedstock;6c579228a29b8a6111ae2d82cf0dc1adc92756a6;Frédéric BRIOL <fbriol@gmail.com>;1696151058;"MNT: Re-rendered with conda-build 3.24.0, conda-smithy 3.26.3, and conda-forge-pinning 2023.09.30.19.29.37
+"
+post;conda-forge_pyinterp-feedstock;ab3b53dbd2f3cdc1df2343e1588ec2cd36690144;Frédéric BRIOL <fbriol@gmail.com>;1696151207;"updated v2023.10.0
+"
+post;conda-forge_pyinterp-feedstock;5ae55d3c4047f4eb0c35f7492ba7158211694f45;Frédéric BRIOL <fbriol@gmail.com>;1696154303;"v2023.10.0 (#93)
+
+* MNT: Re-rendered with conda-build 3.24.0, conda-smithy 3.26.3, and conda-forge-pinning 2023.09.30.19.29.37
+
+* updated v2023.10.0"
+post;conda-forge_pyinterp-feedstock;62909b3003306b5896e8ba0d5c90ada8c780403a;Frédéric BRIOL <fbriol@gmail.com>;1696930896;"v2023.10.1
+"
+post;conda-forge_pyinterp-feedstock;21e79ae447e4e154dbed42f936cf453f97f04625;Frédéric BRIOL <fbriol@gmail.com>;1696930956;"MNT: Re-rendered with conda-build 3.25.0, conda-smithy 3.27.1, and conda-forge-pinning 2023.10.08.10.53.16
+"
+post;conda-forge_pyinterp-feedstock;487913b377021931de85c8691ac07b6a34d53c55;Frédéric BRIOL <fbriol@gmail.com>;1696932469;"v2023.10.1 (#94)
+
+* v2023.10.1
+
+* MNT: Re-rendered with conda-build 3.25.0, conda-smithy 3.27.1, and conda-forge-pinning 2023.10.08.10.53.16"
+post;conda-forge_pyinterp-feedstock;9c1fc136c3f5554340c2785c17c23ae5b9587aa1;regro-cf-autotick-bot <36490558+regro-cf-autotick-bot@users.noreply.github.com>;1697726476;"Rebuild for python312
+"
+post;conda-forge_pyinterp-feedstock;4d9f6799582f18f3ea437692403da4ed3badcc3e;regro-cf-autotick-bot <36490558+regro-cf-autotick-bot@users.noreply.github.com>;1697726510;"MNT: Re-rendered with conda-build 3.27.0, conda-smithy 3.27.1, and conda-forge-pinning 2023.10.19.13.36.34
+"
+post;conda-forge_pyinterp-feedstock;39b564c3d62d435e92d0ff093ff8d1270c7b0169;Frédéric BRIOL <fbriol@gmail.com>;1697898299;"V2023.10.2
+"
+post;conda-forge_pyinterp-feedstock;69aa431fb7978f18a59b21ce6b1c8c1aac9e3f1d;Frédéric BRIOL <fbriol@gmail.com>;1697898347;"MNT: Re-rendered with conda-build 3.24.0, conda-smithy 3.27.1, and conda-forge-pinning 2023.10.21.13.57.55
+"
+pre;kick-h_gpumd;e6004c6c536004c16b6ecd8bedc22a5bae11d891;Zheyong Fan <zheyongfan@163.com>;1520158918;"Update sic_vashishta_table_2007.txt
+
+Changed the table length from 20 000 to 100 000.
+
+This only reduces the speed by 2% but improve the accuracy of the forces by 20 times. With a table length of 100 000, the relative error of force is 5.0e-8, which should be small enough in any applications."
+pre;kick-h_gpumd;4e91fa447d531a107a5243906338ed755db8874f;Zheyong Fan <zheyongfan@163.com>;1520159395;Update README.md
+pre;kick-h_gpumd;66c14c82cbeff8b9afca66b7140d1c33c48b53a3;Zheyong Fan <zheyongfan@163.com>;1520180699;"optimize the sw_1985_2 potential
+
+I got 50% speedup!
+
+I will apply the same trick to other many-body potentials."
+pre;kick-h_gpumd;e23bd8e90320c36ef434f83c5a7fda605b9f2c37;Zheyong Fan <zheyongfan@163.com>;1520318967;"fix a bug introduced by the last optimization
+
+before this fix, the relevant code is 
+
+        real vx1; 
+        real vy1; 
+        real vz1;
+        if (!cal_p)
+        {
+           real  vx1 = LDG(g_vx, n1); 
+           real  vy1 = LDG(g_vy, n1); 
+           real  vz1 = LDG(g_vz, n1);
+        }
+
+This means that the velocities are local to this (template) if statement
+and the velocities used in later heat current calculations are zero!
+
+
+To correct this, just change it to
+        real vx1; 
+        real vy1; 
+        real vz1;
+        if (!cal_p)
+        {
+            vx1 = LDG(g_vx, n1); 
+            vy1 = LDG(g_vy, n1); 
+            vz1 = LDG(g_vz, n1);
+        }"
+pre;kick-h_gpumd;caeda2fc87178d7fc666219e49073544c22b4b82;Zheyong Fan <zheyongfan@163.com>;1520319364;"correct a small bug related to heat current
+
+similar to sw_1985_2"
+pre;kick-h_gpumd;4c3f614f23d19ea2305b617ae7116103c824cc4e;Zheyong Fan <zheyongfan@163.com>;1520319556;"correct a small bug related to heat current
+
+similar to sw_1985_2"
+pre;kick-h_gpumd;58ea49eb3d61e4d6290e8a2778bff4a1d2bb60c2;Zheyong Fan <zheyongfan@163.com>;1520693272;"optimize the tersoff_1989_1 potential
+
+The new version is 1.6 times as fast as the old version."
+pre;kick-h_gpumd;62b524be96d39340e44233ba58527a1a9ff9d404;Zheyong Fan <zheyongfan@163.com>;1520766742;"optimize the tersoff_1989_2 potential
+
+more than 50% increase of the speed."
+pre;kick-h_gpumd;82a6a177563cbf9929d0102738814005d34b310c;Zheyong Fan <zheyongfan@163.com>;1520792874;"optimize the sw_1985 potential
+
+more than 50% gain of speed."
+pre;kick-h_gpumd;b7ad07829af277023f0cb8503f08f0b1bfeea1c5;Zheyong Fan <zheyongfan@163.com>;1522010551;"calculate the volume more safely
+
+Before the change, the volume used in thermal conductivity calculation can be wrong if the NPT ensemble is used in the equilibrium stage and at the same time the command dump_thermo is not used in the equilibrium stage. After the change, this potential bug is fixed."
+post;kick-h_gpumd;7bf3462a1f4875eb380ace74a6f55ed15b0c2b99;Zheyong Fan <zheyongfan@163.com>;1526645727;Add files via upload
+post;kick-h_gpumd;e34a3e5ce4ac9d808bf4a60818dc83c5e13e9ebe;Zheyong Fan <zheyongfan@163.com>;1526647806;"Update makefile
+
+add -std=c++11"
+post;kick-h_gpumd;3bb9402cf1f20f80255578c534f0ff2f4c1a5bf5;Zheyong Fan <zheyongfan@163.com>;1526647916;"set default value of time_step
+
+Set the default value of time_step to 1 fs."
+post;kick-h_gpumd;1463636991c332c791f9c84f371084bc27316788;Zheyong Fan <zheyongfan@163.com>;1526651956;"print more compiling information
+
+print more compiling information"
+post;kick-h_gpumd;279b0c9cc70fb2d176e01158a5fb7c8e8d1c6949;Zheyong Fan <zheyongfan@163.com>;1526674580;Add files via upload
+post;kick-h_gpumd;37ad6b196d55ae812737bf6644dccd5a80e5f392;Zheyong Fan <zheyongfan@163.com>;1526675025;Add files via upload
+post;kick-h_gpumd;927c2743addfed3484d730620f6ed7e5f5f6499c;Zheyong Fan <zheyongfan@163.com>;1526676400;Add files via upload
+post;kick-h_gpumd;ced260a922007401cd6fc87e880df913b8181366;Zheyong Fan <zheyongfan@163.com>;1526709890;Add files via upload
+post;kick-h_gpumd;7b141fcc1fc28fde9351303a0b12b579e5f6212a;Zheyong Fan <zheyongfan@163.com>;1526844159;corrected a few typos
+post;kick-h_gpumd;262e603f06803fdfebd6cc7fbf12fb084cdd8898;Zheyong Fan <zheyongfan@163.com>;1526844986;added #include <cuda.h>
+pre;mastoffel_rptr;0f5a18691fc3ee52b3992a88d20c774d14fd599a;Martin Stoffel <martin.adam.stoffel@gmail.com>;1628089479;"readme finetuning
+"
+pre;mastoffel_rptr;ca6b5b82651b0b651bdd4e1e79be69448d012001;Martin Stoffel <martin.adam.stoffel@gmail.com>;1628089560;"readme finetuning
+"
+pre;mastoffel_rptr;bc9794c527e16094130d0cf00f8eacff7a2eda33;Martin Stoffel <martin.adam.stoffel@gmail.com>;1628089755;"readme finetuning
+"
+pre;mastoffel_rptr;af6183b42ee4ff910eaea3387a97d36cf082b1c8;Martin Stoffel <martin.adam.stoffel@gmail.com>;1628090249;"readme finetuning
+"
+pre;mastoffel_rptr;da83fa947600529881cb8f34be805bf69846fd30;Martin Stoffel <martin.adam.stoffel@gmail.com>;1628091595;"codecov
+"
+pre;mastoffel_rptr;1246d002f4eeaee8872775a8b108b7b64fb2eee6;Martin Stoffel <martin.adam.stoffel@gmail.com>;1628092169;"covr badge
+"
+pre;mastoffel_rptr;83b2397b7b63746ceacf93c70c7b545d9baa4eac;Martin Stoffel <martin.adam.stoffel@gmail.com>;1628092553;"readme typo
+"
+pre;mastoffel_rptr;3dbca697b9fb41a1dbaf4a0acf3f5a947624128c;Martin Stoffel <martin.adam.stoffel@gmail.com>;1628145677;"added issues line to readme
+"
+pre;mastoffel_rptr;eeb64e20ffcd3f0721c28008698aba08e6120669;Martin Stoffel <martin.adam.stoffel@gmail.com>;1628145737;"plots in readme too large
+"
+pre;mastoffel_rptr;a55c3a7dee5a9d978714549aac585a67bcd63d32;Martin Stoffel <martin.adam.stoffel@gmail.com>;1628171830;"typo in readme fixed
+"
+post;mastoffel_rptr;459034508035315bce9f4ecadc42c3e64f428125;mastoffel <martin.adam.stoffel@gmail.com>;1726838911;"update badges in README
+"
+post;mastoffel_rptr;743e1f18c9b1235846eac044d18bbbb90799d30a;mastoffel <martin.adam.stoffel@gmail.com>;1726843124;"fix Overdispersion problem when data is a tibble
+"
+post;mastoffel_rptr;005ee2cff7a77be1bf3b9384e4dd98796fe8131e;mastoffel <martin.adam.stoffel@gmail.com>;1726843584;"update is_true to expect_true everywhere
+"
+post;mastoffel_rptr;96ebe30fc43aa96909a5e200d98f5234ba19ad64;mastoffel <martin.adam.stoffel@gmail.com>;1726844887;"change how Overdispersion is added in rptPoisson, cause tibble
+"
+post;mastoffel_rptr;389653b576f4e67e43d8c66ff611c69061fed098;mastoffel <martin.adam.stoffel@gmail.com>;1726845835;"Add GitHub links to DESCRIPTION
+"
+post;mastoffel_rptr;71b735ac8b7f718fc2543431900381853bdafaae;mastoffel <martin.adam.stoffel@gmail.com>;1727165135;"add mit licence
+"
+post;mastoffel_rptr;f54a24df00037635463aced409c84cb44fe0099e;Martin Stoffel <martin.adam.stoffel@gmail.com>;1745913641;"fix docs NOTE
+"
+post;mastoffel_rptr;1ea4b1e56f5e09301ccd0bdc990094ff474b476d;Martin Stoffel <martin.adam.stoffel@gmail.com>;1745919608;"fix various NOTES
+"
+post;mastoffel_rptr;61c4f8e4d8cbde4f3b044116be428ff2855ce096;Martin Stoffel <martin.adam.stoffel@gmail.com>;1745921255;"fix more NOTES
+"
+pre;raymanng_3d-wind-field;a4fdc65ec085cd2c11d4b499a766f013f3fa3b99;RaymanNg <touhourayman@outlook.com>;1606108253;"render lines with triangles and miter joint
+"
+pre;raymanng_3d-wind-field;4c96463d0460cc23f8d7c4f462de9039eaf42f82;RaymanNg <touhourayman@outlook.com>;1607926199;"fixs bug of calculateOffsetOnMiterDirection
+"
+pre;raymanng_3d-wind-field;5bbdb60cf7166f81fb38d706a7081e4ae3d57711;RaymanNg <touhourayman@outlook.com>;1608010257;"update README and demo HTML for issues about Cesium ION access token
+"
+pre;raymanng_3d-wind-field;e88224f17bfc1447909e796aacb380197af65b86;RaymanNg <touhourayman@outlook.com>;1608011281;"use new WMS URL of NCEI
+"
+pre;raymanng_3d-wind-field;420a2277472aac49c02b96d9824979e9bd1837ee;RaymanNg <touhourayman@outlook.com>;1613362722;"Merge branch 'master' of https://github.com/RaymanNg/3D-Wind-Field into master
+"
+pre;raymanng_3d-wind-field;37ff58c8d2dcfeffc1e0c7ae68305b8da731bbfd;RaymanNg <touhourayman@outlook.com>;1617548977;"update issue template
+"
+pre;raymanng_3d-wind-field;f81b9d7ae312581631c93479502b6b1a449cff67;RaymanNg <touhourayman@outlook.com>;1617549058;"update issue template
+"
+pre;raymanng_3d-wind-field;479b4fa901b0d90af5b41755c60b425699407796;RaymanNg <touhourayman@outlook.com>;1620393447;"reduce WMS layers
+"
+pre;raymanng_3d-wind-field;0e6a04f0df597407fb65cab270d62d81e5cd9507;RaymanNg <touhourayman@outlook.com>;1620394667;"use Sentinel-2 instead of the default Bing Maps
+"
+pre;raymanng_3d-wind-field;f7dbbc59984066afe60e0be530a65dbcbebbf07f;RaymanNg <touhourayman@outlook.com>;1625215248;"upgrade Cesium JS to version 1.83
+"
+post;raymanng_3d-wind-field;615f1220ba1feb2f299f322157b588c996258fcf;RaymanNg <touhourayman@outlook.com>;1737449526;"1. adapt to  CesiumJS version 1.125
+2. fix Spector.js CDN URL
+"
+post;raymanng_3d-wind-field;ead08dd8b81737b8eefd7fd93d6341ae6d025dde;RaymanNg <touhourayman@outlook.com>;1737620009;"upgrade GLSL programs to WebGL2
+"
+post;raymanng_3d-wind-field;ddbbca160c14b5fe081fdd5c2e3dcd05718dba66;RaymanNg <touhourayman@outlook.com>;1750236118;"update WebGL part in README
+"
+pre;theislab_scib;6def280743d91e6e6f6183377d50e3983268c5f0;Michaela Mueller <michaela.mueller@helmholtz-muenchen.de>;1736787931;"use Literal for organism
+"
+pre;theislab_scib;5104c7b2a6a6cfb5e976b6db2a4ef4b6ba999643;Michaela Mueller <michaela.mueller@helmholtz-muenchen.de>;1736790451;"add list of possible organism names to error message
+"
+pre;theislab_scib;3a64fbb819fcb854fad14bae2fb682553a228830;Michaela Mueller <michaela.mueller@helmholtz-muenchen.de>;1736790630;"use scanpy backup_url functionality
+"
+pre;theislab_scib;92b9ebf3ea4db128674c5e4889fd3815dbac073c;Michaela Mueller <michaela.mueller@helmholtz-muenchen.de>;1736790658;"add assertions for gene score columns
+"
+pre;theislab_scib;203b94fbf9e7f551a8b9ddcb708d373339957e9f;Michaela Müller <51025211+mumichae@users.noreply.github.com>;1736793339;"Extend cell cycle gene scoring (#421)
+
+* refactor cell cycle gene handling
+
+* add new gene sets for C. elegans and zebrafish and re-parse Tirosh genes from beginning
+
+* add test datasets for C. elegans and zebrafish
+
+* separate function for cell cycle gene set retrieval
+
+* smart use of gene ID or gene name depending on data
+
+* add gene scoring test for zebrafish and c_elegans
+
+* simplify random gene selection for error reporting
+
+* use Literal for organism
+
+* add list of possible organism names to error message
+
+* use scanpy backup_url functionality
+
+* add assertions for gene score columns"
+pre;theislab_scib;40262e31d98cfcd3625fd89de9d5c9607d845531;Michaela Mueller <michaela.mueller@helmholtz-muenchen.de>;1736793848;"Bump version: 1.1.6 → 1.1.7
+"
+pre;theislab_scib;023c4e81f49156503e7e85ecc1d2d8405401eb1c;Michaela Müller <51025211+mumichae@users.noreply.github.com>;1736794458;"Bump version: 1.1.6 → 1.1.7 (#422)
+
+"
+pre;theislab_scib;291311bf2d525ab47a3a093c2667990a820ac9a3;Michaela Müller <51025211+mumichae@users.noreply.github.com>;1737654720;"Merge eeb8693f2e4ca2ff008161477d4a233736759f31 into 023c4e81f49156503e7e85ecc1d2d8405401eb1c
+"
+pre;theislab_scib;dfa3ed2a03a878ab92c2d2b94973b548fd844edf;Leon Hetzel <leon.het@googlemail.com>;1737654765;"Merge a8d2e08efb3b826c928d0939621c3673bbaec8fb into 023c4e81f49156503e7e85ecc1d2d8405401eb1c
+"
+pre;theislab_scib;297fd6de7290e559648419701fc09ba52f4162b9;harryhaller001 <harryhaller001@gmail.com>;1743580480;"pass kwargs to harmony.harmonize
+"
+post;theislab_scib;392998dc6174b6287123ab611326c16704795ec9;Michaela Mueller <michaela.mueller@helmholtz-munich.de>;1756471523;"pin anndata2ri
+"
+post;theislab_scib;b73b18dcbb65a13fc441f05d54175daea87e3bef;Michaela Müller <51025211+mumichae@users.noreply.github.com>;1758115055;"Pin anndata2ri (#427)
+
+"
+post;theislab_scib;4ab9d03f6bd299e6af43d70864c9686b3438e0bb;harryhaller001 <40577985+harryhaller001@users.noreply.github.com>;1761162720;"Merge 297fd6de7290e559648419701fc09ba52f4162b9 into b73b18dcbb65a13fc441f05d54175daea87e3bef
+"
+post;theislab_scib;0a9d88285f31ee0b26de786d2eff39ccbd1cb4d1;Daniel E. Schaffer <dschaffe@mit.edu>;1761240954;"Use dense matrices in diffusion_nn
+"
+post;theislab_scib;4514aec987bae186b876b7bdce1ae20e1b84535b;Michaela Müller <51025211+mumichae@users.noreply.github.com>;1761287129;"Merge eeb8693f2e4ca2ff008161477d4a233736759f31 into b73b18dcbb65a13fc441f05d54175daea87e3bef
+"
+post;theislab_scib;8ca3590efb4c420b16e1319ec56c247cc44bf536;Leon Hetzel <leon.het@googlemail.com>;1761287132;"Merge a8d2e08efb3b826c928d0939621c3673bbaec8fb into b73b18dcbb65a13fc441f05d54175daea87e3bef
+"
+post;theislab_scib;f79e1ace125c8d5b19503a50e304c6fae10a24ed;Daniel Schaffer <55718373+schafferde@users.noreply.github.com>;1761287409;"Merge 0a9d88285f31ee0b26de786d2eff39ccbd1cb4d1 into b73b18dcbb65a13fc441f05d54175daea87e3bef
+"
+pre;ucl_mimix;ec6211c64e40c33f715a74dca74d398f3117d126;ianrwhite <35139755+ianrwhite@users.noreply.github.com>;1622222221;"Tests updated in program and results in spreadsheet
+"
+pre;ucl_mimix;29b9684275aa56d1077238f01602150a99787203;mirabalis <kkevinmcgrath@yahoo.co.uk>;1622797356;"edit to catch interims
+
+interim output was missing for example when c_mata_miss  = 1 3 4, ie 1 is interim"
+pre;ucl_mimix;d61463bc36de91794da0ca2e1f0c422a53f414c9;mirabalis <kkevinmcgrath@yahoo.co.uk>;1623232807;catch interims
+pre;ucl_mimix;06fe00b1813de38dd750373d896ead3e6bb9b510;ianrwhite <35139755+ianrwhite@users.noreply.github.com>;1626430298;"Completed testing program, showing error in delta method and some minor issues.
+"
+pre;ucl_mimix;91bce500c63e59438906a2ae46b1c810e039ac3a;mirabalis <kkevinmcgrath@yahoo.co.uk>;1628075857;delta and sort edits
+pre;ucl_mimix;fecbf9c8b500027b9eb4c825949ea952f7d90b0f;mirabalis <kkevinmcgrath@yahoo.co.uk>;1628075972;v 0.019 delta edits
+pre;ucl_mimix;ef2576d06d94df38efc63a7fe1eeb77ae0aeaecb;mirabalis <kkevinmcgrath@yahoo.co.uk>;1628076631;Update README.md
+pre;ucl_mimix;8c1a83ca03069a3325e894472d5815f1150deb75;mirabalis <kkevinmcgrath@yahoo.co.uk>;1628077456;reference warning not for  MAR
+pre;ucl_mimix;06c25f3c9ca60c5dba85aa7ac4db4c0d0b445d1d;mirabalis <kkevinmcgrath@yahoo.co.uk>;1628077548;warn reference not MAR
+pre;ucl_mimix;2e121f1e5bdd117ad0244edf5ab37a10b7d0c7af;mirabalis <kkevinmcgrath@yahoo.co.uk>;1628077735;delta, sort and warning edits
+post;ucl_mimix;6912eec2cd89bfb7058da0f688719175beb3e133;mirabalis <kkevinmcgrath@yahoo.co.uk>;1634556020;delta corrected
+post;ucl_mimix;854873f778d4ff3e5b41c3bd438e2ae1c6dad8bf;mirabalis <kkevinmcgrath@yahoo.co.uk>;1634556336;pdf v20
+post;ucl_mimix;95518f8ae29a3ada9e97e36c4fcd703163b9b0cc;mirabalis <kkevinmcgrath@yahoo.co.uk>;1634556366;Update README.md
+post;ucl_mimix;7ddfcda17648bfd4fe7c08a7c5a2dc63cf1f068b;ianrwhite <35139755+ianrwhite@users.noreply.github.com>;1634908279;"Change description to v0.0.20
+"
+post;ucl_mimix;eadec9d63fcb5bb5f7f08879f29653c0766add83;ianrwhite <35139755+ianrwhite@users.noreply.github.com>;1634909080;"Ian's first minor edit of Runmimix.R
+"
+post;ucl_mimix;4f4bdbd41403c8a2de22a521a209aa43ab439271;ianrwhite <35139755+ianrwhite@users.noreply.github.com>;1634909458;"Better final message, default K0=0
+"
+post;ucl_mimix;4c584439a67c37c7df31b3304b580069cbcb3ff4;ianrwhite <35139755+ianrwhite@users.noreply.github.com>;1634910255;"K0, K1 defaults 1,1 weren't used, so remove them
+"
+post;ucl_mimix;7824d675613b825f0b7b6ae737db86250726c250;ianrwhite <35139755+ianrwhite@users.noreply.github.com>;1634912486;"correct sortorder test
+"
+post;ucl_mimix;7517874cdfd88d6b818b36de620d324d873570de;ianrwhite <35139755+ianrwhite@users.noreply.github.com>;1634913420;"Improve enumeration in description
+"
+post;ucl_mimix;59553c5b9d673503afea8b344412453e973e505a;ianrwhite <35139755+ianrwhite@users.noreply.github.com>;1634913922;"call it v0.0.21
+"
+pre;worldwidetelescope_wwt-web-client;d1071be8cf58e1b66ae3d7ee2cb2a8959d6aa139;cranko <cranko@devnull>;1687375917;"Release request commit created with Cranko.
+
++++ cranko-rc-info-v1
+[[projects]]
+qnames = [""@wwtelescope/webclient"", ""npm""]
+bump_spec = ""micro bump""
+
++++
+"
+pre;worldwidetelescope_wwt-web-client;6e5f99dae8ac3a446fdc6275a4e163e4e0d8d4ef;cranko <cranko@devnull>;1687375950;"Release commit created with Cranko.
+
++++ cranko-release-info-v1
+[[projects]]
+qnames = [""@wwtelescope/webclient"", ""npm""]
+version = ""6.4.2""
+age = 0
+
++++
+"
+pre;worldwidetelescope_wwt-web-client;76f38535d65f2e73ebf570307ce7147b578f30ba;Peter Williams <peter@newton.cx>;1691094520;"index.html: update Google Analytics tag ID
+"
+pre;worldwidetelescope_wwt-web-client;bc5e29358c587a615472fe09b420f12de577b509;Peter Williams <peter@newton.cx>;1691094832;"Merge pull request #360 from pkgw/ga4
+
+index.html: update Google Analytics tag ID"
+pre;worldwidetelescope_wwt-web-client;32f23d6c7064ef40bb4eeb93f0229d8de4af811a;Peter Williams <peter@newton.cx>;1692324586;"Update the ""front door"" email address to hello@worldwidetelescope.org
+"
+pre;worldwidetelescope_wwt-web-client;c59c5478848ad2e3ac10c643998d53d90e42494c;Peter Williams <peter@newton.cx>;1692324729;"Merge pull request #362 from pkgw/front-door-email
+
+Update the ""front door"" email address to hello@worldwidetelescope.org"
+pre;worldwidetelescope_wwt-web-client;784f9bf93c4fe862d3c8967355a45657ccf94df3;Jon Carifio <carifio24@gmail.com>;1698847115;"Remove undefined argument passed to search data method.
+"
+pre;worldwidetelescope_wwt-web-client;23e39b3cb8a39a4caacdd011294a140d8816e127;Peter Williams <peter@newton.cx>;1698851131;"Merge pull request #363 from Carifio24/place-hash
+
+Fix issue with constellation-index place sharing"
+pre;worldwidetelescope_wwt-web-client;50651918adaa5ab95e4e84521bd482e0bd1687a8;cranko <cranko@devnull>;1698959879;"Release request commit created with Cranko.
+
++++ cranko-rc-info-v1
+[[projects]]
+qnames = [""@wwtelescope/webclient"", ""npm""]
+bump_spec = ""micro bump""
+
++++
+"
+pre;worldwidetelescope_wwt-web-client;12aa0ec40cb66c5fd15798cbecf37ce624c463fb;cranko <cranko@devnull>;1698959904;"Release commit created with Cranko.
+
++++ cranko-release-info-v1
+[[projects]]
+qnames = [""@wwtelescope/webclient"", ""npm""]
+version = ""6.4.3""
+age = 0
+
++++
+"
+post;worldwidetelescope_wwt-web-client;cab7034d60ac9791f056a1c34424b98d4503ca91;Carifio24 <carifio24@gmail.com>;1752765780;"Mark viewport as dirty when the roll angle changes.
+"
+post;worldwidetelescope_wwt-web-client;6cfa89448406360d9ffdb94b507c548a353542c8;Carifio24 <carifio24@gmail.com>;1752768070;"Bump VM image in CI to Ubuntu 22.04.
+"
+post;worldwidetelescope_wwt-web-client;27af5c58787c83cd2cfa245e4f2073e08c44b1e4;Jon Carifio <carifio24@gmail.com>;1752768353;"Merge pull request #369 from Carifio24/bump-vm-image
+
+Bump VM image in CI to Ubuntu 22.04"
+post;worldwidetelescope_wwt-web-client;5655412abfe045c78ed0346e8c863f83e899b3d5;Jon Carifio <carifio24@gmail.com>;1753297826;"Merge pull request #368 from Carifio24/roll-viewport-dirty
+
+Respond to roll-only camera motions"
+post;worldwidetelescope_wwt-web-client;3c19b689781d647bab3474aefd99b1c3670e3dfc;cranko <cranko@devnull>;1753298551;"Release request commit created with Cranko.
+
++++ cranko-rc-info-v1
+[[projects]]
+qnames = [""@wwtelescope/webclient"", ""npm""]
+bump_spec = ""micro bump""
+
++++
+"
+post;worldwidetelescope_wwt-web-client;c036f329b017ae1f8928834c7843a0dff9e5dc89;Carifio24 <carifio24@gmail.com>;1753301128;"Update deployment workflows to use Ubuntu 22 VM.
+"
+post;worldwidetelescope_wwt-web-client;3ef8e3c6c83c5a36a8b17094bcdf409310143ce9;Jon Carifio <carifio24@gmail.com>;1753301308;"Merge pull request #370 from Carifio24/publishing-vm-image
+
+Update deployment workflows to use Ubuntu 22 VM"
+post;worldwidetelescope_wwt-web-client;1f41bca51d0ee112049877f5ddd2d4d03aa94f04;cranko <cranko@devnull>;1753308216;"Release request commit created with Cranko.
+
++++ cranko-rc-info-v1
+[[projects]]
+qnames = [""@wwtelescope/webclient"", ""npm""]
+bump_spec = ""micro bump""
+
++++
+"
+post;worldwidetelescope_wwt-web-client;f7a3bf5049f3e3a38838a04d93daa35506baa8a1;cranko <cranko@devnull>;1753308292;"Release commit created with Cranko.
+
++++ cranko-release-info-v1
+[[projects]]
+qnames = [""@wwtelescope/webclient"", ""npm""]
+version = ""6.4.4""
+age = 0
+
++++
+"
