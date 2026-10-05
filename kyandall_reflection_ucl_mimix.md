@@ -1,8 +1,3 @@
 # Reflection: ucl_mimix
 
-mimix had no gap of at least three months in the collected WoC "
-        "timeline; its longest zero-commit period was only September 2021. "
-        "Twenty-one commits followed that pause, showing that the project "
-        "immediately recovered. The original project later became inactive, "
-        "and the RefBasedMI repository states that it ports the functionality "
-        "of mimix, suggesting that later development moved to a successor project.
+mimix had no gap of at least three months in the collected WoC timeline; its longest zero-commit period was only September 2021. Twenty-one commits followed that pause, showing that the project immediately recovered. The original project later became inactive, and the RefBasedMI repository states that it ports the functionality of mimix, suggesting that later development moved to a successor project.
